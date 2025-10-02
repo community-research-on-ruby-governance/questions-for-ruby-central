@@ -23,7 +23,7 @@ and hope that it helps ensure that questions get answered.
 
 ## What to do
 
-1) Send in your questions to Ruby Central about the recent actions they have taken via
+1) Send your questions to Ruby Central about their recent actions via
 [their official comment box](https://docs.google.com/forms/d/e/1FAIpQLSdzz3Djtp8J-oHdI7IEzwqiIH8_2O1Ldc2e1OgEvRE7RWgdBQ/viewform?ref=rubycentral.org).
 
 2) Immediately afterwards, send a pull request to this repository to add the same questions
@@ -36,6 +36,6 @@ into who is asking what, and what questions get official responses and
 which are left unanaswered.
 
 It's table stakes for open governance to have these conversations in the open. While we 
-cannot mandate Ruby Central's own way of doing things, we can maintain a public record 
+cannot control [Ruby Central's own way of doing things](https://rubycentral.org/news/our-stewardship-where-we-are-whats-changing-and-how-well-engage/), we can maintain a public record 
 ourselves to hold the organization responsible for stewarding the most 
 critical infrastructure of our community.
