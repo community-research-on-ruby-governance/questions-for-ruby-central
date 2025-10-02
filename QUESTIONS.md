@@ -1,6 +1,6 @@
 # Public Record of questions submitted to Ruby Central
 
-Please only open a pull request to add additional questions here *after* you have submitted the same questions via
+Please only open a pull request to record questions here *after* you have submitted the same questions via
 Ruby Central's [official feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdzz3Djtp8J-oHdI7IEzwqiIH8_2O1Ldc2e1OgEvRE7RWgdBQ/viewform?ref=rubycentral.org)
 
 ---
