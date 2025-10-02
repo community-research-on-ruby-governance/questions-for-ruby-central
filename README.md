@@ -38,4 +38,4 @@ from Ruby Central and which are left unanaswered.
 It's table stakes for open governance to have these conversations in the open. While we 
 cannot control [Ruby Central's own way of doing things](https://rubycentral.org/news/our-stewardship-where-we-are-whats-changing-and-how-well-engage/), we can maintain a public record 
 ourselves to hold the organization responsible for stewarding the most 
-critical infrastructure of our community.
+critical infrastructure of our community to a higher standard of transparency.
