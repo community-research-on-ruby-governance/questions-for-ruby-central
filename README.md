@@ -17,7 +17,7 @@ slip of paper with your complaint written on it and hope that the owner of the b
 eventually considers your thoughts. But based on prior handling of community feedback, 
 **this is not a way to build trust.**
 
-But more importantly, *this is not how open source works.* For those who still
+But more importantly, **this is not how open source works.** For those who still
 remember what the "open" in open source means, let's do this a little differently
 and hope that it helps ensure that questions get answered.
 
