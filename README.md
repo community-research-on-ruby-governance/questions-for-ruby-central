@@ -33,7 +33,7 @@ and hope that it helps ensure that questions get answered.
 
 A public record is an accountability measure and provides visibility 
 into who is asking what, and what questions get official responses
-from Ruby Central and which are left unanaswered.
+from Ruby Central and which are left unanswered.
 
 It's table stakes for open governance to have these conversations in the open. While we 
 cannot control [Ruby Central's way of doing things](https://rubycentral.org/news/our-stewardship-where-we-are-whats-changing-and-how-well-engage/), we can maintain a public record 
