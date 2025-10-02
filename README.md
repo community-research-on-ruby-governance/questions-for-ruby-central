@@ -1,7 +1,7 @@
 # Questions for Ruby Central
 
 Immediately after DHH's RailsConf 2025 keynote was announced, Ruby Central announced 
-and then conducted a listening session, with the promise that a recoeding would
+and then conducted a listening session, with the promise that a recording would
 be released afterwards.
 
 That recording was never released, and no substantive summary of what was discussed
