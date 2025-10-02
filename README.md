@@ -8,7 +8,7 @@ That recording was never released, and no substantive summary of what was discus
 in that meeting was ever made public, either.
 
 Fast forward a few months, and Ruby Central has yet again [taken actions that have
-provoked community outrage](https://www.404media.co/how-ruby-went-off-the-rails/). 
+provoked community outrage](https://joel.drapper.me/p/rubygems-takeover/). 
 They promised another listening session, and then prompty cancelled it.
 
 In its place, a Google Form and a promise to write replies in future updates. In
