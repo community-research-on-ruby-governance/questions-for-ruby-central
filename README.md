@@ -27,7 +27,7 @@ and hope that it helps ensure that questions get answered.
 [their official comment box](https://docs.google.com/forms/d/e/1FAIpQLSdzz3Djtp8J-oHdI7IEzwqiIH8_2O1Ldc2e1OgEvRE7RWgdBQ/viewform?ref=rubycentral.org).
 
 2) Immediately afterwards, send a pull request to this repository to add the same questions
-(ideally in the exact form you sent them to Ruby Central) to the QUESTIONS.md file.
+(ideally in the exact form you sent them to Ruby Central) to the [QUESTIONS.md](https://github.com/community-research-on-ruby-governance/questions-for-ruby-central/blob/main/QUESTIONS.md) file.
 
 ## Why record your questions here?
 
