@@ -6,7 +6,7 @@ Ruby Central's [official feedback form](https://docs.google.com/forms/d/e/1FAIpQ
 ---
 
 A member of the RailsConf 2025's program committee claimed via a Bluesky post that
-plans for DHH's keynote wasannounced internally before review and selections began. 
+plans for DHH's keynote was announced internally before review and selections began. 
 A member of Ruby Central's board who is also a Shopify employee replied to this 
 confirming that was the case, and that if PC members had a problem with that, 
 they could resign from the committee. 
