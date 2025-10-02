@@ -39,3 +39,17 @@ It's table stakes for open governance to have these conversations in the open. W
 cannot control [Ruby Central's own way of doing things](https://rubycentral.org/news/our-stewardship-where-we-are-whats-changing-and-how-well-engage/), we can maintain a public record 
 ourselves to hold the organization responsible for stewarding the most 
 critical infrastructure of our community to a higher standard of transparency.
+
+## How to help spread the word
+
+First of all, consider submitting a question. People generally only participate in
+community organized activities once they see others they know getting involved,
+so don't underestimate just how much impact being among the first few folks to
+submit a pull request will have on encouraging others to participate.
+
+You can also share a link to this repository wherever you post on social media,
+or if you're on Mastodon, you can [boost this post](https://mastodon.social/@skillstopractice/115304277231471595) to get the word out.
+
+Seeing a large amount of questions from many active community members in one place sends 
+a strong message that people *do* care about Ruby's governance. It's a simple act
+of civic service for a language we all love to show up and have our voices be heard.
