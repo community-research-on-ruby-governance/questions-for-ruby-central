@@ -41,5 +41,20 @@ Are there any additional projects planned or under consideration with respect to
 
 ---
 
+Ruby Central's claim of ownership on specifically the source code & respositories of the rubygems & bundler projects seems to hinge on a small piece of working in a commit: "RubyGems is managed by Ruby Central" (https://github.com/rubygems/rubygems/commit/d6550cca10b776722a6cb2d960bb0e11b96670c8), which was made as part of the Ruby Together / Ruby Central merger.
+
+However, I can find nothing in the merger contract (https://andre.arko.net/2025/09/25/bundler-belongs-to-the-ruby-community/merger-agreement.pdf) that confers "ownership" of the project to Ruby Central. Beyond that, it's not clear to me that the projects were even "owned" by Ruby Together; Ruby Together merely funded some contributors to that project. So I see no strong claim that either organise ever "owned" the project. Rather, it seems the defacto owners are the contributors.
+
+My questions are: 
+
+1. Do you recognise the difference between the rubygems open-source software project and the specific instance of that software running at https://rubygems.org?
+2. Do you acknowledge that it would be possible for you to ensure the security of the specific instance of the software running at https://rubygems.org *without* claiming ownership of the open-source software project? (I recognise that may not be the most _convenient_ way to ensure security, but we're dealing with technicalities here)
+3. What is the basis of your claim for *ownership* of the project, beyond that line in the README (which I would describe as extremely tenuous)?
+
+I have read everything written by Ruby Central on this subject, so I'm asking some very specific questions here, and I would appreciate specific answers.
+
+(via @lazyatom)
+
+---
 
 ADD YOUR QUESTIONS HERE, PUTTING A HORIZONTAL LINE BETWEEN EACH.
