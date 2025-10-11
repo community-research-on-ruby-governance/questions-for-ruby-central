@@ -57,4 +57,32 @@ I have read everything written by Ruby Central on this subject, so I'm asking so
 
 ---
 
+In your last (Oct 10) update you've said this: "We’ve also strengthened operational coverage by adding two new maintainers to our on-call rotation to improve resilience and response capacity."
+
+Who are these people? Actually, could you please publish full list of people who are currently responsible or work on rubygems.org infrastructure and application, rubygems CLI, and bundler?
+
+(via @pointlessone)
+
+---
+
+A certain timeline was mentioned a few times. It was cited as the primary reason to hold the vote and remove maintainers from the rubygem.org/rubygems/bundler repositories.
+
+Could you please share more details about it? What are the dates on this timeline? Where does it come from? What is the reason it didn't allow additional flexibility to resolve all outstanding questions? What exactly is this timeline for (at first it sounded as it's funding related but later it was denied)? Have you met the goals of this timeline? What were they?
+
+(via @pointlessone)
+
+---
+
+It's been a few updates since you opened a form for collecting questions but not much answers were in those updates. When do you plan starting answering the questions?
+
+(via @pointlessone)
+
+---
+
+Will you publish the full list of questions you've got? For the sake of transparency it would be helpful to see how you grouped similar questions and how you understood the question along with the answer you gave.
+
+(via @pointlessone)
+
+---
+
 ADD YOUR QUESTIONS HERE, PUTTING A HORIZONTAL LINE BETWEEN EACH.
