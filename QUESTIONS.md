@@ -85,4 +85,14 @@ Will you publish the full list of questions you've got? For the sake of transpar
 
 ---
 
+By what decision making process did the Ruby Core team receive ownership of the rubygems repository?
+
+Were other parties considered (such as the original admins?) Did the Ruby Core team sign operator agreements with Ruby Central? If not, could you explain the reasoning since it sounded like a sticking point when revoking existing access?
+
+How many questions have you received from this form, and how many have you answered to-date?
+
+(via @soulcutter)
+
+---
+
 ADD YOUR QUESTIONS HERE, PUTTING A HORIZONTAL LINE BETWEEN EACH.
