@@ -95,4 +95,12 @@ How many questions have you received from this form, and how many have you answe
 
 ---
 
+In this blog post: https://rubycentral.org/news/our-stewardship-where-we-are-whats-changing-and-how-well-engage/
+
+It was stated that Ruby Central was working on Operator Agreements and Contributor Agreements with the previous maintainers.
+
+Do these same concerns still apply with the code now being maintained by Ruby's core team? Will the Ruby core team be signing Contributor Agreements? And will contributors to the Bundler / RubyGems projects also be expected to sign Contributor agreements?
+
+---
+
 ADD YOUR QUESTIONS HERE, PUTTING A HORIZONTAL LINE BETWEEN EACH.
