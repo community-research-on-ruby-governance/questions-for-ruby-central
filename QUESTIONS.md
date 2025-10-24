@@ -7,6 +7,24 @@ For details on why a public record of these questions is important to have, see 
 
 ---
 
+In your update on Oct 24, you stated…
+
+“Shopify, like other sponsors, has never played any role in keynote selection or conference programming decisions. Sponsors do not have governance or program authority.”
+
+Can you please confirm who the conference chairs were for RailsConf, and who they are employed by? Can you also further confirm their relationship with RubyCentral otherwise.
+
+My understanding is that there were two co-chairs, one who is the founder of GoRails, and the other is a Shopify employee. The latter is also a board member of Ruby Central.
+
+Is this accurate? If so, what measures have been taken to ensure that decision making is genuinely independent?
+
+The reason for this question is because it is fairly hard to believe that there isn’t some level of bias inherent in this choice given that the program committee was not given input, and the speaker is a member of Shopify’s board, and the moderator a Shopify employee.
+
+Is there a reason why you did not at least disclose these affiliations in your reply?
+
+(via Gregory Brown)
+
+---
+
 A member of the RailsConf 2025's program committee claimed via a Bluesky post that
 plans for DHH's keynote was announced internally before review and selections began. 
 A member of Ruby Central's board who is also a Shopify employee replied to this 
