@@ -121,4 +121,23 @@ Do these same concerns still apply with the code now being maintained by Ruby's 
 
 ---
 
+In your most recent "source of truth" (tone-deaf name btw), you answered my previous question about your claim of ownership of the repositories with the following:
+
+> RubyGems and Bundler have been managed by Ruby Central, as stated in their repository READMEs, since the merger with Ruby Together. Ruby Central has authority over the code and the gems commensurate with this management responsibility and the responsibility for delivering a secure and sustainable supply chain for the whole Ruby community.
+
+I have more to say (below), but to give a concrete follow-up question: why do you believe that Ruby Together had any ownership of the repositories, such that the merger would transfer ownership to you?
+
+I am absolutely sure that it's *more convenient* for the organisation running rubygems.org to control the repositories for the de-facto client libraries, and I'm sure the lines were muddied because some of the same people who frequently contribute (or were paid to contribute) to those libraries were also involved in running the rubygems.org service... but that doesn't automatically mean they or you have ownership.
+
+You state that you have "authority ... commensurate with this management responsibility", but you can't just claim ownership over source code because it's it's an important part of your service. The same logic could apply between any running service and library; using your logic, Shopify could claim ownership of "my-random-gem" simply because they deem it an important part of their infrastructure, and they were "securing their supply chain".
+
+This might sound like a pedantic detail, but for me it is the absolute core of the problem here. Ruby Central had no right to seize control of repositories, the claim for ownership doesn't stand up to any scrutiny, and it wasn't even necessary to establish the "supply chain security" you want; like everyone who runs open source software like WordPress or Postgres or whatever -- you can control what code runs on your servers without needing to establish ownership over the upstream repositories.
+
+I think if you can just admit that this was a mistake, and that it wasn't necessary for you to secure the rubygems.org service, and apologise, that would go a huge way to building a *foundation* to re-establish trust. 
+
+via @lazyatom
+
+---
+
+
 ADD YOUR QUESTIONS HERE, PUTTING A HORIZONTAL LINE BETWEEN EACH.
