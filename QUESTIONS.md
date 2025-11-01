@@ -7,6 +7,20 @@ For details on why a public record of these questions is important to have, see 
 
 ---
 
+In a Reddit comment thread on your Oct 31 update, I had asserted that Ruby Central uses conferences as a funding model to cover infrastructure costs for the community.
+
+Ufuk replied with a correction:
+
+" That hasn't been the case since 2020. Ruby Central conferences have been losing money or at best breaking even since then. So, this assertion isn't correct."
+
+If this is the case, why is it in Ruby Central's interest to continue to run conferences, despite the financially precarious position it is currently in?
+
+Also was this intentional as a strategy shift in funding models, or was it a failure for those events to hit whatever financial targets were set for them?
+
+(Submitted by Gregory Brown)
+
+---
+
 In your Oct 31 update, you mentioned that "While we are members of OpenSSF, we missed the opportunity to be a signatory on the joint statement."
 
 When I looked at that [joint statement](https://openssf.org/blog/2025/09/23/open-infrastructure-is-not-free-a-joint-statement-on-sustainable-stewardship/?ref=rubycentral.org), it does say "Organizational signatures indicate endorsement by the listed entity. Additional organizations may be added over time."
