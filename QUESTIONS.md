@@ -7,7 +7,7 @@ For details on why a public record of these questions is important to have, see 
 
 ---
 
-In your Oct 31update, you mentioned that "While we are members of OpenSSF, we missed the opportunity to be a signatory on the joint statement."
+In your Oct 31 update, you mentioned that "While we are members of OpenSSF, we missed the opportunity to be a signatory on the joint statement."
 
 When I looked at that joint statement, it does say "Organizational signatures indicate endorsement by the listed entity. Additional organizations may be added over time."
 
