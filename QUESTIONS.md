@@ -7,6 +7,18 @@ For details on why a public record of these questions is important to have, see 
 
 ---
 
+In your Oct 31update, you mentioned that "While we are members of OpenSSF, we missed the opportunity to be a signatory on the joint statement."
+
+When I looked at that joint statement, it does say "Organizational signatures indicate endorsement by the listed entity. Additional organizations may be added over time."
+
+Can you clarify? Have you reached out to OpenSSF and asked to be added and informed that was not possible? If not, can you please reach out and ask to be added.
+
+This would be a positive step forward in clarifying Ruby Central's position.
+
+(Submitted by Gregory Brown)
+
+---
+
 Ufuk, thank you for your Oct 31 reply.
 
 I understand that you stand by your decision to platform DHH despite the community outrage that caused.
@@ -14,6 +26,8 @@ I understand that you stand by your decision to platform DHH despite the communi
 I also understand that you do not see a conflict of interest in your decision making role in 2025 at a time in which DHH was already a Shopify board member, you were a Shopify employee, a board member of Ruby Central, a co-chair of RailsConf, and the person to specifically invite him.
 
 If you see sufficient evidence that the community disagrees, and finds your decisions to have been ultimately harmful to Ruby Central, and that your perceived conflict of interest has broken a bond of trust with the community, would you consider resigning from the board as a way to allow Ruby Central to rebuild trust?
+
+(Submitted by Gregory Brown)
 
 ---
 
