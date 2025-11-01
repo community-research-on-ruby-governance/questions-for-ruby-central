@@ -7,6 +7,16 @@ For details on why a public record of these questions is important to have, see 
 
 ---
 
+Ufuk, thank you for your Oct 31 reply.
+
+I understand that you stand by your decision to platform DHH despite the community outrage that caused.
+
+I also understand that you do not see a conflict of interest in your decision making role in 2025 at a time in which DHH was already a Shopify board member, you were a Shopify employee, a board member of Ruby Central, a co-chair of RailsConf, and the person to specifically invite him.
+
+If you see sufficient evidence that the community disagrees, and finds your decisions to have been ultimately harmful to Ruby Central, and that your perceived conflict of interest has broken a bond of trust with the community, would you consider resigning from the board as a way to allow Ruby Central to rebuild trust?
+
+---
+
 In your update on Oct 24, you stated…
 
 “Shopify, like other sponsors, has never played any role in keynote selection or conference programming decisions. Sponsors do not have governance or program authority.”
