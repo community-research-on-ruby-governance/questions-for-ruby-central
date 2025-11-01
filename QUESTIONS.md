@@ -9,7 +9,7 @@ For details on why a public record of these questions is important to have, see 
 
 In your Oct 31 update, you mentioned that "While we are members of OpenSSF, we missed the opportunity to be a signatory on the joint statement."
 
-When I looked at that joint statement, it does say "Organizational signatures indicate endorsement by the listed entity. Additional organizations may be added over time."
+When I looked at that [joint statement](https://openssf.org/blog/2025/09/23/open-infrastructure-is-not-free-a-joint-statement-on-sustainable-stewardship/?ref=rubycentral.org), it does say "Organizational signatures indicate endorsement by the listed entity. Additional organizations may be added over time."
 
 Can you clarify? Have you reached out to OpenSSF and asked to be added and informed that was not possible? If not, can you please reach out and ask to be added.
 
