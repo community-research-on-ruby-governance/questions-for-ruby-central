@@ -177,5 +177,12 @@ via @lazyatom
 
 ---
 
+With the current round of open board positions, you are encouraging individuals from underrepresented backgrounds to apply. However, there is a requirement for board members to attend a yearly offsite - presumably, this is in the US? For a lot of folks in the rest of the world, travelling into the US does not feel safe - is offsite attendance a hard requirement? Is it indeed in the US? Would hosting it elsewhere be a consideration?
+
+In a similar vein: Ruby Central seems happy to give a platform to DHH at RailsConf despite his continued racist and transphobic views. If they accept that, then how can the board and organisation be considered safe for these individuals from underrepresented backgrounds?
+
+via @pat
+
+---
 
 ADD YOUR QUESTIONS HERE, PUTTING A HORIZONTAL LINE BETWEEN EACH.
