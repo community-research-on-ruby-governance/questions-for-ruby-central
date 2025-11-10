@@ -259,7 +259,7 @@ In your Nov 7 update you stated that "Each of Ruby Central’s conferences is gu
 
 But in your Oct 31 update, Ufuk, a member of your board said "I joined the Ruby Central board in December 2023, and the first role assigned to me as a new board member was to co-chair RailsConf 2024."
 
-So to confirm, even though the board does not select speakers or keynotes, the board does appoint program chairs, and did appoint one of Ruby Central's board members as a co-chair for RailsConf 2025, by your own public statements.
+So to confirm, even though the board does not select speakers or keynotes, the board does appoint program chairs, and did appoint one of Ruby Central's board members as a co-chair for both RailsConf 2024 and RailsConf 2025, by your own public statements.
 
 Ufuk continues in his statement on Oct 31 to say "I asked the board to vote on was permission to reach out to DHH to get him on the RailsConf 2024 program, which the board approved"
 
