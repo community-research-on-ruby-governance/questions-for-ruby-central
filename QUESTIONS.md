@@ -203,6 +203,8 @@ In your Nov 7 update, you stated that your conflict of interest disclosure form 
 
 Failing that, please send the form to the email address I've included when submitting this request and also publish in your next update instructions on how others can do the same. Please also let me know if I have pemission to publicly publish this form for community feedback.
 
+via Gregory Brown
+
 ---
 
 ADD YOUR QUESTIONS HERE, PUTTING A HORIZONTAL LINE BETWEEN EACH.
