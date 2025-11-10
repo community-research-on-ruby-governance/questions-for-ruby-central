@@ -199,4 +199,10 @@ via Gregory Brown
 
 ---
 
+In your Nov 7 update, you stated that your conflict of interest disclosure form is not yet published online but is available upon request. You did not specify how to request it, so I am doing so via this feedback box. In an ideal world, you will simply publish this directly in your next update.
+
+Failing that, please send the form to the email address I've included when submitting this request and also publish in your next update instructions on how others can do the same. Please also let me know if I have pemission to publicly publish this form for community feedback.
+
+---
+
 ADD YOUR QUESTIONS HERE, PUTTING A HORIZONTAL LINE BETWEEN EACH.
