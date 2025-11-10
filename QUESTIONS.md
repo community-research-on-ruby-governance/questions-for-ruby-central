@@ -229,4 +229,30 @@ via Gregory Brown
 
 ---
 
+In your Nov 7 update, you replied to my question in which I had asked if the board would consider asking Ufuk to resign due to his perceived conflict of interest with a message that started with "We appreciate the opportunity to address this directly."
+
+In your reply, you did not address the topic of resignation at all, but instead reiterated that "sponsors do not have governance or program authority at Ruby Central. Conference programming decisions are made independently by the co-chairs and program teams"
+
+So I will try to ask the question again, in parts, each of which can be answered with a simple yes or no:
+
+1) Is it apparent to Ruby Central's board that when a keynote speaker is a board member of a 200 billion dollar company, and a program chair who is employed by the same company arranges a by-invite keynote slot, that there is a potential for perceived conflict of interest?
+
+2) Is it apparent to Ruby Central's board that when a program chair is also a board member of Ruby Central itself, that there are inherent challenges in making indepedent programming decisions?"
+
+3) Is it apparent that when a sponsor for a non-profit organization provides a sufficiently critical amount of funding and in-kind services so as to make the organization operationally dependent on their continued funding and support, that there are power dynamics involved that necessitate going "above and beyond" in anything related to perceived or real conflict of interest?
+
+4) Is it apparent that when a program co-chair is also a Ruby Central board member and is also an employee of the same company that the invited keynote speaker is a board member at, and that the keynote has specifically been identified as *not up for consideration* by the other program committee members, that there is a reasonable risk of perceived conflict of interest?
+
+5) Is it apparent that when the same keynote speaker's talk is announced via Ruby Central's official account with comments turned off on Bluesky, this creates the appearance of an organization who is aware of and actively trying to minimize negative publicity regarding their programming decision?
+
+6) Is it apparent that when a listening session is scheduled with a promise to release a recording afterward regarding this decision, and neither that recording, nor a transcript, nor even a substantial summary of the key topics discussed in that session were published, that this furthers a public perception of evasion and deflection regarding the decision made by Ruby Central?
+
+7) Is it apparent that when sponsors are inadequately informed of these decisions in advance and as a result decide to withdraw funding (or withdraw continued support), that significant financial harm has been done to Ruby Central's funding position, creating an increased dependence on the same sponsor that all relevant parties in this decision are affiliated with?
+
+8) Is it apparent given all of the above, that at a minimum, Ruby Central's board should consider a vote of no confidence in the board member and program co-chair who made these choices, so as to set the organization on the path where there can be meaningful reform?
+
+(via Gregory Brown)
+
+--- 
+
 ADD YOUR QUESTIONS HERE, PUTTING A HORIZONTAL LINE BETWEEN EACH.
