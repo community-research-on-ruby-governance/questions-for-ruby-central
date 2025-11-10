@@ -255,4 +255,28 @@ So I will try to ask the question again, in parts, each of which can be answered
 
 --- 
 
+In your Nov 7 update you stated that "Each of Ruby Central’s conferences is guided by a clear separation between sponsorship, governance, and program decisions. Program committees are made up of volunteers who represent a broad cross-section of the Ruby community, while conference chairs oversee selection processes in coordination with staff. The board does not select speakers or keynotes."
+
+But in your Oct 31 update, Ufuk, a member of your board said "I joined the Ruby Central board in December 2023, and the first role assigned to me as a new board member was to co-chair RailsConf 2024."
+
+So to confirm, even though the board does not select speakers or keynotes, the board does appoint program chairs, and did appoint one of Ruby Central's board members as a co-chair for RailsConf 2025, by your own public statements.
+
+Ufuk continues in his statement on Oct 31 to say "I asked the board to vote on was permission to reach out to DHH to get him on the RailsConf 2024 program, which the board approved"
+
+So this does mean that there was a board-approved decision related to a keynote presentation, even if the final decision was left to the co-chairs, correct?
+
+Ultimately the 2024 keynote appearance never panned out, and it seems that this issue was not raised for a further board vote in 2025, unless I've missed a statement somewhere to that effect. So what it seems like is that Ufuk was operating under the same implied consent from the board, despite affiliations shifting in 2025 and DHH being a board member of the same company he was employed by in 2025. Please correct me if I am wrong, but that's the assumption I am operating under.
+
+~
+
+Ufuk continues his Oct 31 statement with "I volunteered to co-chair the 2025 RailsConf as well, and found a community co-chair with whom we formed the program committee, and restarted the conversation with DHH about an appearance at the conference. At the kick-off meeting of the program committee, as first order of business, I made sure to let the committee members know that DHH might be one of the keynote speakers and that if that was going to be a point of concern with anyone that they could choose to decline their program committee role."
+
+When I read this, my interpretation is that program committee members did not have any meaningful input allowed for this keynote slot, and their only recourse if they disagreed would have been to not participate in the committee. At the time this statement was made, the program co-chair who made this statement was employed by the same company that the invited keynote speaker is a board member of, and also was a member of Ruby Central's board.
+
+Restating your claim from Nov 7 that "Each of Ruby Central’s conferences is guided by a clear separation between sponsorship, governance, and program decisions." and putting that claim into context, can you go into more detail as to where you see the "clear separation" in Ufuk's role in each of those three categories are? What are the rules or limiting factors which would create that clear separation? Because the end result seems quite to the contrary.
+
+With this in mind, and assuming Ruby Central wants to improve the way things are done in the future, what could or should have been done differently here? And what are you committed to do differently in the future to better address power dynamics, financial dependencies on sponsors and apparent or real conflict of interest? Please be specific and concrete.
+
+---
+
 ADD YOUR QUESTIONS HERE, PUTTING A HORIZONTAL LINE BETWEEN EACH.
