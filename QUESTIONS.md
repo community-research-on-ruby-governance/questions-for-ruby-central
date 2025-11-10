@@ -221,6 +221,10 @@ But in the interest of transparency and to give the Ruby community a clearer pic
 
 5) Of the five keynote slots at RailsConf 2025, how many have an affiliation with either 37Signals or Shopify?
 
+6) Of the program committee members for RailsConf 2024, how many have an affiliation with either 37Signals or Shopify?
+
+7) Of the program committee members for RailsConf 2025, how many have an affiliation with either 37Signals or Shopify?
+
 via Gregory Brown
 
 ---
