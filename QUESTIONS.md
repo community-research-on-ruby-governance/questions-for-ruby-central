@@ -185,4 +185,18 @@ via @pat
 
 ---
 
+In your Nov 7 update, you announced that Richard Schneeman (/u/schneems) has joined the Open Source Committee for Ruby Central.
+
+In my view, this is a positive step forward given Richard's track record both within OSS development and in his community involvement.
+
+Because he is a moderator of both /r/ruby and /r/rails on Reddit, and Reddit is one of the largest and most visible open conversation forums related to Ruby, it's important to address any potential conflicts of interest that may arise there.
+
+The most simple way to do that would be for Richard to recuse himself from any moderation activities related to discussions of Ruby Central, of which he has historically participated actively and constructively in. And from here on out, it'd be wise for him to disclose his affiliation in any of these related threads.
+
+What if any agreements, formally or informally, have been made to address these overlapping responsibilities? Seeing some thought put into this and some commitments put on public record would go a long way towards showing that Ruby Central is actively gaining an increased awareness of power dynamics in open source communities as well as a willingness to structurally address potential conflicts of interest beyond minimum legal compliance to focus on what's truly in the interest of the community you serve.
+
+via Gregory Brown
+
+---
+
 ADD YOUR QUESTIONS HERE, PUTTING A HORIZONTAL LINE BETWEEN EACH.
