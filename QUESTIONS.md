@@ -207,4 +207,22 @@ via Gregory Brown
 
 ---
 
+I recognize that the specific details of individual Ruby Central board members conflict of interest disclosures may not be shared on public record for privacy reasons.
+
+But in the interest of transparency and to give the Ruby community a clearer picture of the recent composition of Ruby Central, can you provide the following information?
+
+1) At the time a board vote was made to discuss reaching out to DHH in 2024 to potentially give a keynote talk at RailsConf 2024, how many board members had an affiliation with either 37Signals or Shopify?
+
+2) At the time that the program co-chairs for 2025 extended the invite to DHH to participate in a keynote at RailsConf 2025, how many board members had an affiliation with either 37Signals or Shopify?
+
+3) At the current moment, how many board members have an affiliation with either 37Signals or Shopify?
+
+4) Of the six engineers currently on on-call rotation for rubygems.org, how many have an affiliation with either 37Signals or Shopify?
+
+5) Of the five keynote slots at RailsConf 2025, how many have an affiliation with either 37Signals or Shopify?
+
+via Gregory Brown
+
+---
+
 ADD YOUR QUESTIONS HERE, PUTTING A HORIZONTAL LINE BETWEEN EACH.
