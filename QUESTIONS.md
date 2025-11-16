@@ -279,4 +279,29 @@ With this in mind, and assuming Ruby Central wants to improve the way things are
 
 ---
 
+
+I have reviewed PSF's conflict of interest bylaws and recommend that Ruby Central adopts something substantially equivalent.
+
+Bear in mind that because PSF is a democratic organization, making affiliations known to members means disclosing that information to a broad community of individual members, not just within a small circle of staff and board members.
+
+To address this, I recommend making any board member nominations known to the public, requiring disclosures of affiliation to be released to the public, and then providing a minimum of a 21 day open comment period on any nominees in advance of the board voting to approve new members.
+
+Please share a response when you can about what if anything Ruby Central intends to do to address this request. You have board applications open, and this is an opportunity to improve community relations by (1) Having an explicit and public set of bylaws related to conflict of interest and (2) disclosing affiliations for public commentary for your newly elected board members and (3) improving the composition of your board by putting limits on common affiliations.
+
+Thank you for your consideration. Full text of relevant bylaws from PSF are below, source from: https://www.python.org/psf/bylaws/
+
+...
+
+Section 5.13. Director Conflicts of Interest. No contract or other transaction between the corporation and one or more of its directors or between the corporation and any other corporation, partnership, association or other organization in which one or more of the directors of the corporation are directors or officers or are financially interested, shall be void or voidable solely because of such relationship or interest or solely because such director or directors are present at or participate in the meeting of the Board of Directors or a committee thereof which authorizes, approves or ratifies such contract or transaction or solely because his or her or their votes are counted for such purpose, if: The material facts as to the director's relationship or interest and as to the contract or transaction are disclosed or are known to the Board of Directors or committee, and the Board of Directors or committee in good faith authorizes, approves or ratifies the contract or transaction by the affirmative votes of a majority of the disinterested directors, even though the disinterested directors be less than a quorum; or: The material facts as to their relationship or interest and as to the contract or transaction are disclosed or known to the members entitled to vote thereon, and the contract or transaction is specifically approved in good faith by vote of such members; or: The contract or transaction is fair as to the corporation at the time it is authorized, approved or ratified by the Board of Directors, a committee of the Board of Directors or the voting members. Common or interested directors may be counted in determining the presence of a quorum at a meeting of the Board of Directors or a committee thereof which authorizes, approves or ratifies such contract or transaction.
+
+Section 5.14. Affiliations of Board Members. A person running for the board must make any affiliation (other than the Foundation) known to the members. If the affiliation of any Board Member changes while serving on the Board of Directors, such new affiliation shall be immediately made known to the membership. For the purposes of this section, a Board Member or prospective Board Member has an affiliation if that person is an employee, officer, or member of the Board of Directors of an entity; if that person has a significant consulting relationship with an entity; or that person owns at least 1% of the equity or debt, or derivatives thereof, of an entity.
+
+Section 5.15. Limits on Co-affiliation of Board Members. No more than one quarter (1/4) of the members of the Board of Directors may share a common affiliation as defined in Section 5.14. If the number of co-affiliated directors goes above the limit due to a change in employment or a corporate acquisition, then, unless otherwise agreed between the co-affiliated members, the longest-serving member(s) of the Board of Directors sharing that affiliation must resign before the next meeting of the Board of Directors to bring the total number of co-affiliated directors below the limit.
+
+A person who would bring the Board of Directors above the limit on co-affiliation is ineligible to be seated or appointed.
+
+For purposes of this Section, a common affiliation includes all organizations that, directly or indirectly through one or more intermediaries, controls, is controlled by, or is under common control with the other entities declared as affiliations by other members of the Board of Directors.
+
+---
+
 ADD YOUR QUESTIONS HERE, PUTTING A HORIZONTAL LINE BETWEEN EACH.
